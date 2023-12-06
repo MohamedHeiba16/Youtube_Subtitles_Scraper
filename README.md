@@ -1,5 +1,8 @@
 # Youtube_Subtitles_Scraper
 
+### About 
+
+
 Script uses youtube_api to scrape subtitles from all videos on any youtube channel using the id of channel and and `download` it to your directory as `srt` file 
 
 
